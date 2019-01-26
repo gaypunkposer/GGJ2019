@@ -13,7 +13,7 @@
 	"Plugins": [
 		{
 			"Name": "VRExpansionPlugin",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
